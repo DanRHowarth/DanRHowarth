@@ -19,7 +19,7 @@ This repo includes the following:
 
 #### Deep Learning (and MLOps) 
 * Deployment of [Image Anonymizer](https://github.com/DanRHowarth/ImageAnonymiser-FSDL) application using **Streamlit**, **Docker** and drawing on state-of-the-art models (the output of a Full Stack Deep Learning project group I was part of, and which was selected as a top project for the 2022 cohort)
-* Deployment of Hand Writing Recogniser, with inference performed via **severless GPUs** using modal (this repo represents the teaching material for the Full Stack Deep Learning course, and I then subsequenty contributed to the severless GPU implementation)
+* Deployment of [Text Recognizer](https://github.com/DanRHowarth/gpu-deployments-FSDL), with inference performed via **severless GPUs** using modal (this repo represents the teaching material for the Full Stack Deep Learning course, and I then subsequenty contributed to the severless GPU implementation)
 
 #### Teaching 
 * A [repo](https://github.com/DanRHowarth/Artificial-Intelligence-Cloud-and-Edge-Implementations) containing the notebooks and other teaching material I developed for the **University of Oxford** is here
